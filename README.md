@@ -132,13 +132,15 @@ RelayForge is being developed around several principles:
 5. Testable and maintainable architecture.
 6. Transparent documentation of implementation progress.
 
-Project Status and Transparency
+Contributing and Collaboration
 
 This repository is a public documentation-only overview of RelayForge.
 
 It describes the project's purpose, architectural direction, planned technology, engineering principles, and development roadmap.
 
 The public overview does not contain the private implementation source code. Project capabilities will be updated as they are implemented and verified.
+
+For questions about the project direction or potential collaboration, use the contact information on the repository owner's GitHub profile.
 
 Intellectual Property
 
