@@ -150,4 +150,4 @@ The implementation repository is maintained separately.
 
 ---
 
-Last documentation review: 11 November 2026.
+Last documentation review: 15 November 2026.
